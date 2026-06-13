@@ -1,0 +1,12 @@
+{
+  "name": "gemini-image-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node generate.js",
+    "debug": "node generate.js --debug"
+  },
+  "dependencies": {
+    "playwright": "latest",
+    "xlsx": "latest"
+  }
+}
